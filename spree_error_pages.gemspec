@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_error_pages'
   s.version     = '3'
-  #s.summary     = 'TODO: Add gem summary here'
+  s.summary     = 'Spree own error pages'
   #s.description = 'TODO: Add (optional) gem description here'
   s.required_ruby_version = '>= 2.0.0'
 
